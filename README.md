@@ -8,7 +8,7 @@
 
 </div>
 <samp>
-<img src="https://raw.githubusercontent.com/thabets/thabets/master/profile.jpeg" width="30%" align="right">
+<img src="https://raw.githubusercontent.com/thabets/thabets/master/profile.JPG" width="30%" align="right">
 
 **:gem: Job:** Operations Engineer (Customs) DBSChenker
 
