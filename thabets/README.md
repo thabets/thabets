@@ -1,5 +1,3 @@
-# thabets
-
 <div align="center">
 
 ## Hi! I'm Sam Thabet <img src="https://raw.githubusercontent.com/thabets/thabets/master/wave.gif" width="30px">
