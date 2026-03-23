@@ -2,7 +2,7 @@
 
 ## Hi! I'm Sam Thabet <img src="https://raw.githubusercontent.com/thabets/thabets/master/wave.gif" width="30px">
 
-#### Full Stack Developer
+#### Product Manager
 
 ![GitHub followers](https://img.shields.io/github/followers/thabets?style=social)
 
