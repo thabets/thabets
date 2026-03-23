@@ -10,7 +10,7 @@
 <samp>
 <img src="https://raw.githubusercontent.com/thabets/thabets/master/profile.JPG" width="30%" align="right">
 
-**:gem: Job:** Operations Engineer (Customs) DBSChenker
+**:gem: Job:** Product Manager | Fintech | Moneris
 
 **:school_satchel: Learning:** AWS, GraphQL
 
