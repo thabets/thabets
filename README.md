@@ -20,7 +20,7 @@
 
 **:heart: Hobbies:** Photography, Traveling, Latest Tech
 
-**:office: Organisation:** DBSChenker
+**:office: Organisation:** Moneris
 
 **:mailbox_with_mail: Get in touch :**
 <a href="https://www.linkedin.com/in/sallam-thabet-93418518a/">
