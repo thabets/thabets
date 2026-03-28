@@ -12,7 +12,7 @@
 
 **:gem: Job:** Product Manager | Fintech | Moneris
 
-**:school_satchel: Learning:** AWS, GraphQL
+**:school_satchel: Learning:** AI Agentics
 
 **:computer: Languages:** Javascript, HTML, CSS
 
